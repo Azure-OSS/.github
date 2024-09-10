@@ -1,4 +1,4 @@
-# About Azure-OSS
+# About OSS for Microsoft Azure
 
 We provide proper Open Source Community driven PHP integration for Azure service since [Microsoft dropped their SDK support on several of their services](https://azure.microsoft.com/en-us/updates/retirement-notice-the-azure-storage-php-client-libraries-will-be-retired-on-17-march-2024/).
 
