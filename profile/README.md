@@ -12,7 +12,7 @@ We provide proper PHP integration for Azure service since [Microsoft dropped the
 All contributions are highly welcomed. Before you do, make sure you read our general [contributing guidelines](https://github.com/azure-oss/.github/blob/main/CONTRIBUTING.md).
 Your code will be released under the [MIT license](https://github.com/azure-oss/.github/blob/main/LICENSE).
 
-# Disclaimer
+## Disclaimer
 
 This repository and the organization **Azure-OSS / OSS for Microsoft Azure** are **not affiliated, associated, authorized, endorsed by, or in any way officially connected** with Microsoft Corporation, or any of its subsidiaries or affiliates.
 
